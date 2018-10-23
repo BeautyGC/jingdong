@@ -1,0 +1,125 @@
+@charset "utf-8"
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+     height: 80px;
+     width: 800px;
+    
+      
+
+}
+.header img{
+	float: left;
+	margin-left: 100px;
+	height: 66px;
+}
+.one{
+	height: 0.5px;
+	 width: 1000px;
+	 background-color: red;
+	 border: 1px solid red;
+	 margin-left: 100px;
+
+	 
+
+}
+  p:nth-child(2),:nth-child(3){
+	margin-left: 38px;
+	font-size: 14px;
+
+}
+.two span{
+	float: left;
+	margin-top: 100px;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 70px;
+}
+.three{
+	height: 200px;
+	width: 1000px;
+	border-color: rgb(205 233 255);
+	border: 1px solid pink;
+	margin-top: 124px;
+	margin-left: 100px;
+
+}
+.three1  {
+background: pink;
+height: 26px;
+width: 1000px;
+}
+.three2{
+	margin-top: 10px;
+	margin-left: 40px;
+}
+.four{
+	height: 200px;
+	width: 1000px;
+	margin-left: 100px;
+	border: 1px solid pink;
+	margin-top: 20px;
+
+
+}
+.four1 {
+background: pink;
+height: 26px;
+width: 1000px;
+
+}
+.four1 span{
+	margin-left: 24px;
+}
+textarea{
+	margin-left: 50px;
+	margin-top: 30px;
+	width:400px;
+	height: 100px;
+}
+.five span{
+	margin-left: 100px;
+	font-weight: bold;
+	font-size: 20px;
+}
+.six{
+	height: 200px;
+	width: 1000px;
+	 
+	border: 1px solid pink;
+	 
+	margin-left: 100px;
+
+}
+.six1 span{
+	color:red;
+}
+.six1{
+	height: 80px;
+	width: 1000px;
+	background-color: pink;
+}
+.six2 input{
+	width: 150px;
+	margin-top: 10px;
+
+}
+.footer{
+	 
+	 height: 50px;
+	 width: 1000px;
+	 background-color: pink;
+	 margin-left: 100px;
+	 margin-top: 15px;
+}
+.footer input{
+	line-height:50px; 
+	height :50px;
+	background-color: transparent;
+	margin-left: 450px;
+	border: none;
+	outline: medium;
+
+}

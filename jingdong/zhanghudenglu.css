@@ -1,0 +1,206 @@
+@charset "utf-8"
+ 
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	height: 120px;
+	/*border: 1px solid red;*/
+}
+.header1 img{
+	height: 80px;
+	margin-left: 80px;
+	margin-top: 20px;
+
+}
+.header2{
+	float: right;
+	/*border: 1px solid black;*/
+	margin-top: -36px;
+	margin-right: 80px;
+
+
+}
+.header2 a{
+	  text-decoration: none;
+	 color: red;
+}
+.header a:hover{
+	 cursor: pointer;
+	 color: pink; 
+}
+.one{
+	height:40px;
+	background-color: rgb(255 249 241);
+	/*border: 1px solid red;*/
+	/*text-align: center;*/
+	width: 100%;
+
+
+}
+.one span{
+	color: grey;
+	margin-top: 10px;
+	margin-left: 140px;
+	 
+	float: left;
+	font-size: 15px;
+
+	
+}
+.two{
+	height: 540px;
+	width: 100%;
+	background-color: rgb(233 56 84);
+}
+.two1 img{
+	height: 500px;
+	width: 600px;
+	float: left;
+	margin-left: 80px;
+	 
+	margin-bottom: 40px;
+}
+.two2{
+	height: 480px;
+	width: 400px;
+	background: white;
+	float: right;
+	margin-right: 100px;
+	margin-top: 40px;
+
+}
+.two2-header{
+	width: 100%;
+	height: 30px;
+	/*border:1px solid red;*/
+	 background-color: rgb(255 249 241);
+	text-align: center;
+	line-height: 30px;
+	font-size:16px;
+	color: grey;
+
+
+
+}
+.two2-body {
+	width: 100%;
+	height: 50px;
+	margin-top: -15px;
+	 
+	/*border:1px solid teal;*/
+}
+.two2-body ul li{
+	list-style: none;
+	float: left;
+	padding: 20px;
+
+	
+}
+.two2-body ul li a{
+	text-decoration: none;
+	
+	font-size: 20px;
+	
+}
+.a1{
+	color: grey;
+	font-weight: bold;
+}
+.a1:hover{
+	color: red;
+}
+ .a2{
+ 	color: red;
+ 	font-weight: bold;
+ }
+ .two2-1{
+ 	height: 40px;
+ 	width: 100%;
+ 	/*border:1px solid red;*/
+ 	float: left;
+ 	padding: 20px;
+ }
+ .two2-1 img{
+ 	width: 40px;
+ 	height: 46px;
+ }
+ .two2-1 input{
+ 	width: 300px;
+ 	height: 40px;
+ 	float: right;
+ 	margin-right: 56px;
+ }
+ .two2-2{
+ 	height: 40px;
+ 	width: 100%;
+ 	/*border:1px solid red;*/
+ 	float: left;
+ 	padding: 20px;
+ 	margin-top: 20px;
+ }
+ .two2-2 img{
+ 	width: 40px;
+ 	height: 46px;
+ }
+ .two2-2 input{
+ 	width: 300px;
+ 	height: 40px;
+ 	float: right;
+ 	margin-right: 56px;
+ }
+  
+ 
+  
+ p{
+ 	float: right;
+ 	font-size: 14px;
+ 	/*border:1px solid red;*/
+ 	margin-right: 30px;
+ 	color: grey;
+ }
+/* .two2-3{
+ 	float: left;
+ 	margin-top: 30px;
+ 	margin-left: 50px;
+ }*/
+ .two2-3 input{
+ 	width: 360px;
+ 	height: 40px;
+ 	background-color: red;
+ 	 margin-left: 20px;
+ 	 font-size: 20px;
+ 	 color:white;
+ 	 letter-spacing: 20px; 
+ }
+  
+
+  
+ #two2-4 img{
+ 	width: 200px;
+ 	height: 50px;
+ 	margin-top: 45px;
+ }
+ #two2-4 a{
+ 	text-decoration: none;
+ 	color: red;
+ 	float: right;
+ 	margin-top: 60px;
+
+ }
+ #two2-4 a:hover{
+ 	color: pink;
+ }
+
+
+
+ 	 
+ 	 
+
+ }
+.footer p{
+	text-align: center;
+	color: grey;
+}
+

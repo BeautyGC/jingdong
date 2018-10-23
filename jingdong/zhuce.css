@@ -1,0 +1,99 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.header{
+	height: 120px;
+	/*background-color: red;*/
+}
+.header .header1 img{
+	float: left;
+	 
+	width: 400px;
+	height: 100px;
+	margin-top: 20px;
+	margin-left: 60px;
+}
+.header .header2{
+	float: left;
+	margin-left: 600px;
+	margin-top:60px;
+
+}
+.header .header2 a{
+	text-decoration: none;
+	color:red;
+}
+.hr{
+	height: 8px;
+	 background: rgb(227 228 229);
+}
+.all-body{
+	 
+	width: 900px;
+	margin:0 70px;
+	 
+ 
+	 
+	 
+}
+.one img{
+	height: 100px;
+    width: 500px;
+   margin: 20px 380px;
+}
+
+.body-1 select{
+	height: 50px;
+	width: 100px;
+	margin-left: 420px;
+
+
+
+}
+ 
+.body-1 input{
+	height: 50px;
+	width: 300px;
+	text-align: center;
+	 
+}
+.body-2 input{
+	height: 50px;
+	width: 400px;
+	margin-left: 420px;
+	margin-top: 20px;
+	text-align: center;
+
+}
+button{
+	height:60px;
+	width: 400px;
+	background-color: red;
+	margin-left: 420px;
+	margin-top: 20px;
+	text-align: center;
+
+}
+hr{
+	color: grey;
+	margin-top: 150px;
+	margin-bottom: 20px;
+}
+.p{
+	 text-align: center;
+
+}
+.footer span{
+	color:grey;
+	font-size: 13px;
+	margin-left: 10px;
+	 
+}
+.p1{
+	 text-align: center;
+     color:grey;
+     font-size: 13px;
+	
+
+}
